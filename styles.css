@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    margin: 0 auto 0 auto;
+    margin: 20px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bottom-container{
+    background: #66BFBF;
+
+}
+
+.contact-me{
+    margin: 30px;
+}
+
+.btn{
+    font-weight: bold;
+    background-color: #66BFBF;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 30px;
+}
+
+
+.top-container{
+    background-color: #ceeded;
+}
+
+.profile{
+    margin: 60px;
+}
+.profile-pic{
+    border-radius: 50%;
+}
+
+.ProblmSolve-pic{
+    border-radius: 50%
+}
+
+.devlopment-pic{
+    border-radius: 50%;
+}
+
+.upper-cloud{
+    margin: 20px;
+    position: relative;
+    left: 378px;
+}
+
+.lower-cloud{
+    margin: 20px;
+    position: absolute;
+}
+
+.mountain{
+    margin: 20px;
+}
+
+.ProblmSolve-pic{
+    width: 25%;
+    height: 75%;
+    float: left;
+    margin-right: 30px;
+}
+
+hr{
+    color: #66BFBF;
+    width: 25%;
+}
+
+.Communication-pic{
+    width: 25%;
+    height: 75%;
+    float: right;
+    margin-left: 30px;
+}
+
+.devlopment-pic{
+    width: 25%;
+    height: 75%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.middle-container{
+    margin: 50px;
+}
+
+.footer-link{
+    margin: 15px;
+    font-weight: bold;
+    color: #144c4e;
+}
